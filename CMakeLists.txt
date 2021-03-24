@@ -5,3 +5,8 @@ include(GNUInstallDirs)
 include(CTest)
 
 add_executable(foobar src/foo.c src/bar.c)
+
+install(
+  TARGETS foobar
+  EXPORT "${CMAKE_PROJECT_NAME}"
+  DESTINATION "${CMAKE_INSTALL_BINDIR}")
