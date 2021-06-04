@@ -1,0 +1,34 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.20/Modules/CheckCSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/CheckLibraryExists.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/FindThreads.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/GoogleTest.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/SelectLibraryConfigurations.cmake
+Z:/Projects/cyclonedds-cxx/cmake/Modules/FindGTest.cmake
+Z:/Projects/cyclonedds-cxx/src/ddscxx/tests/CMakeLists.txt
+Z:/Projects/cyclonedds-cxx/src/ddscxx/tests/Condition.cpp
+Z:/Projects/cyclonedds-cxx/src/ddscxx/tests/Conversions.cpp
+Z:/Projects/cyclonedds-cxx/src/ddscxx/tests/DataReader.cpp
+Z:/Projects/cyclonedds-cxx/src/ddscxx/tests/DataReaderManipulatorSelector.cpp
+Z:/Projects/cyclonedds-cxx/src/ddscxx/tests/DataReaderSelector.cpp
+Z:/Projects/cyclonedds-cxx/src/ddscxx/tests/DataWriter.cpp
+Z:/Projects/cyclonedds-cxx/src/ddscxx/tests/DomainParticipant.cpp
+Z:/Projects/cyclonedds-cxx/src/ddscxx/tests/Duration.cpp
+Z:/Projects/cyclonedds-cxx/src/ddscxx/tests/EntityStatus.cpp
+Z:/Projects/cyclonedds-cxx/src/ddscxx/tests/Exception.cpp
+Z:/Projects/cyclonedds-cxx/src/ddscxx/tests/FindDataReader.cpp
+Z:/Projects/cyclonedds-cxx/src/ddscxx/tests/FindDataWriter.cpp
+Z:/Projects/cyclonedds-cxx/src/ddscxx/tests/FindTopic.cpp
+Z:/Projects/cyclonedds-cxx/src/ddscxx/tests/Listener.cpp
+Z:/Projects/cyclonedds-cxx/src/ddscxx/tests/ListenerStress.cpp
+Z:/Projects/cyclonedds-cxx/src/ddscxx/tests/Publisher.cpp
+Z:/Projects/cyclonedds-cxx/src/ddscxx/tests/Qos.cpp
+Z:/Projects/cyclonedds-cxx/src/ddscxx/tests/Query.cpp
+Z:/Projects/cyclonedds-cxx/src/ddscxx/tests/Subscriber.cpp
+Z:/Projects/cyclonedds-cxx/src/ddscxx/tests/Time.cpp
+Z:/Projects/cyclonedds-cxx/src/ddscxx/tests/Topic.cpp
+Z:/Projects/cyclonedds-cxx/src/ddscxx/tests/WaitSet.cpp
+Z:/Projects/cyclonedds-cxx/src/ddscxx/tests/config_simple.xml.in

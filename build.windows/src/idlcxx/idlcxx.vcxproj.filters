@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\idlcxx\src\types.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\idlcxx\src\traits.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\idlcxx\src\streamers.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\idlcxx\src\generator.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="Z:\Projects\cyclonedds-cxx\src\idlcxx\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{81B70E63-2802-3184-99B2-237F94B00ABA}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

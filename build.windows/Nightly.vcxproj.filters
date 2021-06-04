@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="Z:\Projects\cyclonedds-cxx\build.windows\CMakeFiles\acf22fcbb12d2122dc7eca2593b20b50\Nightly.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Z:\Projects\cyclonedds-cxx\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Z:\Projects\cyclonedds-cxx\build.windows\CMakeFiles\Nightly" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{2363413A-6F00-3EAD-8349-E906C7177B7B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

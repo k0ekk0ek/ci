@@ -1,0 +1,6 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.20/Modules/CheckCCompilerFlag.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/CheckCXXCompilerFlag.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/GenerateExportHeader.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/exportheader.cmake.in
+Z:/Projects/cyclonedds-cxx/src/ddscxx/CMakeLists.txt

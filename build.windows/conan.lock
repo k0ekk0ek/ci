@@ -1,0 +1,32 @@
+{
+ "graph_lock": {
+  "nodes": {
+   "0": {
+    "options": "cunit:enable_automated=True\ncunit:enable_basic=True\ncunit:enable_console=True\ncunit:shared=True\ncunit:with_curses=False\ngtest:build_gmock=True\ngtest:hide_symbols=False\ngtest:no_main=False\ngtest:shared=True",
+    "requires": [
+     "1",
+     "2"
+    ],
+    "path": "..\\conanfile.txt",
+    "context": "host"
+   },
+   "1": {
+    "ref": "cunit/2.1-3",
+    "options": "enable_automated=True\nenable_basic=True\nenable_console=True\nshared=True\nwith_curses=False",
+    "package_id": "7770b74f32e2ec1598a451c9b829d065b1c284b4",
+    "prev": "0",
+    "context": "host"
+   },
+   "2": {
+    "ref": "gtest/1.8.1",
+    "options": "build_gmock=True\nhide_symbols=False\nno_main=False\nshared=True",
+    "package_id": "3f0ace30056da8c8008a05842de931e7808916f6",
+    "prev": "0",
+    "context": "host"
+   }
+  },
+  "revisions_enabled": false
+ },
+ "version": "0.4",
+ "profile_host": "[settings]\narch=x86_64\narch_build=x86_64\nbuild_type=Release\ncompiler=Visual Studio\ncompiler.runtime=MD\ncompiler.version=16\nos=Windows\nos_build=Windows\n[options]\n[build_requires]\n[env]\n"
+}

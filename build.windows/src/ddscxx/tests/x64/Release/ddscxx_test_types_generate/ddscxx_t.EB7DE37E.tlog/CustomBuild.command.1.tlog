@@ -1,0 +1,38 @@
+^Z:\PROJECTS\CYCLONEDDS-CXX\BUILD.WINDOWS\CMAKEFILES\3A045F9D42F696ACB3F313D9F9074D76\HELLOWORLDDATA.HPP.RULE
+setlocal
+Z:\Projects\cyclonedds\build.windows\install\bin\idlc.exe -l Z:/Projects/cyclonedds-cxx/build.windows/bin/idlcxx.dll Z:/Projects/cyclonedds-cxx/src/ddscxx/tests/data/HelloWorldData.idl
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^Z:\PROJECTS\CYCLONEDDS-CXX\BUILD.WINDOWS\CMAKEFILES\3A045F9D42F696ACB3F313D9F9074D76\SPACE.HPP.RULE
+setlocal
+Z:\Projects\cyclonedds\build.windows\install\bin\idlc.exe -l Z:/Projects/cyclonedds-cxx/build.windows/bin/idlcxx.dll Z:/Projects/cyclonedds-cxx/src/ddscxx/tests/data/Space.idl
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^Z:\PROJECTS\CYCLONEDDS-CXX\BUILD.WINDOWS\CMAKEFILES\1F234ED0E6CB5E1DC8330F074A558E61\DDSCXX_TEST_TYPES_GENERATE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^Z:\PROJECTS\CYCLONEDDS-CXX\SRC\DDSCXX\TESTS\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SZ:/Projects/cyclonedds-cxx -BZ:/Projects/cyclonedds-cxx/build.windows --check-stamp-file Z:/Projects/cyclonedds-cxx/build.windows/src/ddscxx/tests/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

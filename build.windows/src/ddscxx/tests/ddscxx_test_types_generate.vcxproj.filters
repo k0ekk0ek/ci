@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="Z:\Projects\cyclonedds-cxx\build.windows\CMakeFiles\3a045f9d42f696acb3f313d9f9074d76\HelloWorldData.hpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Z:\Projects\cyclonedds-cxx\build.windows\CMakeFiles\3a045f9d42f696acb3f313d9f9074d76\Space.hpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Z:\Projects\cyclonedds-cxx\build.windows\CMakeFiles\1f234ed0e6cb5e1dc8330f074a558e61\ddscxx_test_types_generate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\tests\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Z:\Projects\cyclonedds-cxx\build.windows\src\ddscxx\tests\CMakeFiles\ddscxx_test_types_generate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{2363413A-6F00-3EAD-8349-E906C7177B7B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

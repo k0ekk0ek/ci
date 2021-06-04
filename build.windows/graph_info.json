@@ -1,0 +1,46 @@
+{
+ "options": [
+  [
+   "cunit:enable_automated",
+   "True"
+  ],
+  [
+   "cunit:enable_basic",
+   "True"
+  ],
+  [
+   "cunit:enable_console",
+   "True"
+  ],
+  [
+   "cunit:shared",
+   "True"
+  ],
+  [
+   "cunit:with_curses",
+   "False"
+  ],
+  [
+   "gtest:build_gmock",
+   "True"
+  ],
+  [
+   "gtest:hide_symbols",
+   "False"
+  ],
+  [
+   "gtest:no_main",
+   "False"
+  ],
+  [
+   "gtest:shared",
+   "True"
+  ]
+ ],
+ "root": {
+  "name": null,
+  "version": null,
+  "user": null,
+  "channel": null
+ }
+}

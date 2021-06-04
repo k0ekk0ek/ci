@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\src\dds\core\Duration.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\src\dds\core\Exception.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\src\dds\core\Reference.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\src\dds\core\Time.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\src\dds\core\policy\CorePolicy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\src\dds\core\status\State.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\src\dds\domain\discovery.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\src\dds\domain\find.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\src\dds\pub\pubdiscovery.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\src\dds\sub\subdiscovery.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\src\dds\sub\subfind.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\src\dds\sub\status\DataState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\src\org\eclipse\cyclonedds\core\Mutex.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\src\org\eclipse\cyclonedds\core\ObjectDelegate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\src\org\eclipse\cyclonedds\core\DDScObjectDelegate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\src\org\eclipse\cyclonedds\core\ObjectSet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\src\org\eclipse\cyclonedds\core\EntityDelegate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\src\org\eclipse\cyclonedds\core\ReportUtils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\src\org\eclipse\cyclonedds\core\ListenerDispatcher.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\src\org\eclipse\cyclonedds\core\InstanceHandleDelegate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\src\org\eclipse\cyclonedds\core\EntitySet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\src\org\eclipse\cyclonedds\core\MiscUtils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\src\org\eclipse\cyclonedds\core\cond\ConditionDelegate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\src\org\eclipse\cyclonedds\core\cond\GuardConditionDelegate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\src\org\eclipse\cyclonedds\core\cond\StatusConditionDelegate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\src\org\eclipse\cyclonedds\core\cond\WaitSetDelegate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\src\org\eclipse\cyclonedds\core\policy\PolicyDelegate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\src\org\eclipse\cyclonedds\domain\Domain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\src\org\eclipse\cyclonedds\domain\DomainWrap.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\src\org\eclipse\cyclonedds\domain\DomainParticipantDelegate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\src\org\eclipse\cyclonedds\domain\DomainParticipantRegistry.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\src\org\eclipse\cyclonedds\domain\qos\DomainParticipantQosDelegate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\src\org\eclipse\cyclonedds\pub\AnyDataWriterDelegate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\src\org\eclipse\cyclonedds\pub\PublisherDelegate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\src\org\eclipse\cyclonedds\pub\qos\DataWriterQosDelegate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\src\org\eclipse\cyclonedds\pub\qos\PublisherQosDelegate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\src\org\eclipse\cyclonedds\sub\qos\DataReaderQosDelegate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\src\org\eclipse\cyclonedds\sub\AnyDataReaderDelegate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\src\org\eclipse\cyclonedds\sub\SubscriberDelegate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\src\org\eclipse\cyclonedds\sub\BuiltinSubscriberDelegate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\src\org\eclipse\cyclonedds\sub\QueryDelegate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\src\org\eclipse\cyclonedds\sub\cond\ReadConditionDelegate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\src\org\eclipse\cyclonedds\sub\cond\QueryConditionDelegate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\src\org\eclipse\cyclonedds\sub\qos\SubscriberQosDelegate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\src\org\eclipse\cyclonedds\topic\find.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\src\org\eclipse\cyclonedds\topic\hash.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\src\org\eclipse\cyclonedds\topic\cdr_stream.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\src\org\eclipse\cyclonedds\topic\AnyTopicDelegate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\src\org\eclipse\cyclonedds\topic\FilterDelegate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\src\org\eclipse\cyclonedds\topic\TopicDescriptionDelegate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\src\org\eclipse\cyclonedds\topic\qos\TopicQosDelegate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Z:\Projects\cyclonedds\build.windows\install\include\dds\dds.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Z:\Projects\cyclonedds\build.windows\install\include\dds\ddsc\dds_public_error.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Z:\Projects\cyclonedds\build.windows\install\include\dds\ddsc\dds_public_impl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Z:\Projects\cyclonedds\build.windows\install\include\dds\ddsc\dds_public_listener.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Z:\Projects\cyclonedds\build.windows\install\include\dds\ddsc\dds_public_qos.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Z:\Projects\cyclonedds\build.windows\install\include\dds\ddsc\dds_public_qosdefs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Z:\Projects\cyclonedds\build.windows\install\include\dds\ddsc\dds_public_status.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Z:\Projects\cyclonedds\build.windows\install\include\dds\ddsc\dds_statistics.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Z:\Projects\cyclonedds\build.windows\install\include\dds\ddsc\dds_rhc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Z:\Projects\cyclonedds\build.windows\install\include\dds\ddsc\dds_internal_api.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Z:\Projects\cyclonedds\build.windows\install\include\dds\ddsc\dds_opcodes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Z:\Projects\cyclonedds\build.windows\install\include\dds\export.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{224F2A39-5FC6-33D9-8EE6-7B304D01A1C8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{81B70E63-2802-3184-99B2-237F94B00ABA}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

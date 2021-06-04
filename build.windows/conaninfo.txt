@@ -1,0 +1,45 @@
+[settings]
+    arch=x86_64
+    build_type=Release
+    compiler=Visual Studio
+    compiler.runtime=MD
+    compiler.version=16
+    os=Windows
+
+[requires]
+    cunit/2.Y.Z
+    gtest/1.Y.Z
+
+[options]
+
+
+[full_settings]
+    arch=x86_64
+    arch_build=x86_64
+    build_type=Release
+    compiler=Visual Studio
+    compiler.runtime=MD
+    compiler.version=16
+    os=Windows
+    os_build=Windows
+
+[full_requires]
+    cunit/2.1-3:7770b74f32e2ec1598a451c9b829d065b1c284b4
+    gtest/1.8.1:3f0ace30056da8c8008a05842de931e7808916f6
+
+[full_options]
+    cunit:enable_automated=True
+    cunit:enable_basic=True
+    cunit:enable_console=True
+    cunit:shared=True
+    cunit:with_curses=False
+    gtest:build_gmock=True
+    gtest:hide_symbols=False
+    gtest:no_main=False
+    gtest:shared=True
+
+[recipe_hash]
+
+
+[env]
+

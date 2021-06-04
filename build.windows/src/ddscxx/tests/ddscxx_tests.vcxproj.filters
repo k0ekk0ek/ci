@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\tests\EntityStatus.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\tests\Listener.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\tests\ListenerStress.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\tests\DomainParticipant.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\tests\Exception.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\tests\Conversions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\tests\FindDataWriter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\tests\FindDataReader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\tests\FindTopic.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\tests\Topic.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\tests\Publisher.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\tests\Subscriber.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\tests\DataWriter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\tests\DataReader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\tests\DataReaderSelector.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\tests\DataReaderManipulatorSelector.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\tests\Duration.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\tests\Time.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\tests\Query.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\tests\WaitSet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\tests\Qos.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\tests\Condition.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Z:\Projects\cyclonedds\build.windows\install\include\dds\dds.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Z:\Projects\cyclonedds\build.windows\install\include\dds\ddsc\dds_public_error.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Z:\Projects\cyclonedds\build.windows\install\include\dds\ddsc\dds_public_impl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Z:\Projects\cyclonedds\build.windows\install\include\dds\ddsc\dds_public_listener.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Z:\Projects\cyclonedds\build.windows\install\include\dds\ddsc\dds_public_qos.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Z:\Projects\cyclonedds\build.windows\install\include\dds\ddsc\dds_public_qosdefs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Z:\Projects\cyclonedds\build.windows\install\include\dds\ddsc\dds_public_status.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Z:\Projects\cyclonedds\build.windows\install\include\dds\ddsc\dds_statistics.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Z:\Projects\cyclonedds\build.windows\install\include\dds\ddsc\dds_rhc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Z:\Projects\cyclonedds\build.windows\install\include\dds\ddsc\dds_internal_api.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Z:\Projects\cyclonedds\build.windows\install\include\dds\ddsc\dds_opcodes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Z:\Projects\cyclonedds\build.windows\install\include\dds\export.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Z:\Projects\cyclonedds-cxx\build.windows\src\ddscxx\tests\Space.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Z:\Projects\cyclonedds-cxx\build.windows\src\ddscxx\tests\HelloWorldData.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="Z:\Projects\cyclonedds-cxx\src\ddscxx\tests\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{2363413A-6F00-3EAD-8349-E906C7177B7B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{224F2A39-5FC6-33D9-8EE6-7B304D01A1C8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{81B70E63-2802-3184-99B2-237F94B00ABA}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
